@@ -1,0 +1,6 @@
+devel_space: /home/legion/ws_moveit/devel
+install: false
+install_space: /home/legion/ws_moveit/install
+profile: default
+source_space: /home/legion/ws_moveit/src
+workspace: /home/legion/ws_moveit
